@@ -1,0 +1,1014 @@
+Station,Lines
+Vert-Galant,rer-b
+Villeparisis - Mitry-le-Neuf,rer-b
+Sevran - Livry,rer-b
+Mairie d'Issy,metro-12
+Issy,rer-c
+Jacques Henri Lartigue,tram-2
+Gabriel Péri - Asnières - Gennevilliers,metro-13
+Gabriel Péri - Asnières - Gennevilliers,tram-1
+Mairie de Clichy,metro-13
+Les Grésillons,rer-c
+Porte d'Asnières - Marguerite Long,tram-3b
+Louise Michel,metro-3
+Porte de Champerret,metro-3
+Sevran - Beaudottes,rer-b
+Rougemont - Chanteloup,tram-4
+Saint-Ambroise,metro-9
+Richard-Lenoir,metro-5
+Parmentier,metro-3
+Massy - Verrières,rer-b
+Massy - Verrières,rer-c
+Les Baconnets,rer-b
+Fontaine-Michalon,rer-b
+Sannois,train-j
+Cernay,rer-c
+Cernay,train-h
+Ermont-Eaubonne,rer-c
+Ermont-Eaubonne,train-h
+Ermont-Eaubonne,train-j
+Ella Fitzgerald,tram-3b
+Pantin,rer-e
+Delphine Seyrig,tram-3b
+Dordives,train-r
+Ferrières - Fontenay,train-r
+Vaucresson,train-l
+La Celle-Saint-Cloud,train-l
+Garches - Marnes-la-Coquette,train-l
+Les Boullereux Champigny,rer-e
+Champigny,rer-a
+Nogent le Perreux,rer-e
+Fort d'Aubervilliers,metro-7
+La Courneuve - 8 Mai 1945,metro-7
+La Courneuve - 8 Mai 1945,tram-1
+Maurice Lachâtre,tram-1
+Créteil - Université,metro-8
+Saint-Maur - Créteil,rer-a
+Créteil - Préfecture (Hôtel de Ville),metro-8
+Pont-de-Rungis - Aéroport d'Orly,rer-c
+Caroline Aigle,tram-7
+Orly - Ville,rer-c
+Barbara,metro-4
+Mairie de Montrouge,metro-4
+Porte d'Orléans (Général Leclerc),metro-4
+Porte d'Orléans (Général Leclerc),tram-3a
+Trappes,train-n
+Trappes,train-u
+Saint-Quentin-en-Yvelines,rer-c
+Saint-Quentin-en-Yvelines,train-n
+Saint-Quentin-en-Yvelines,train-u
+Saint-Cyr,rer-c
+Saint-Cyr,train-n
+Saint-Cyr,train-u
+Villejuif - Louis Aragon,metro-7
+Villejuif - Louis Aragon,tram-7
+Lamartine,tram-7
+Villejuif - Paul Vaillant-Couturier,metro-7
+Meudon - Val Fleury,rer-c
+Meudon,train-n
+Meudon-sur-Seine,tram-2
+Les Gobelins,metro-7
+Censier - Daubenton,metro-7
+Port-Royal,rer-b
+Porte de Vanves,metro-13
+Porte de Vanves,tram-3a
+Brancion,tram-3a
+Plaisance,metro-13
+Courcelle-sur-Yvette,rer-b
+Gif-sur-Yvette,rer-b
+La Hacquinière,rer-b
+Esbly,train-p
+Montry - Condé,train-p
+Marne-la-Vallée - Chessy,rer-a
+Mormant,train-p
+Verneuil-l'Etang,train-p
+Fontaine-le-Port,train-r
+Conflans - Sainte-Honorine,train-j
+Conflans - Fin d’Oise,rer-a
+Conflans - Fin d’Oise,train-j
+Conflans - Fin d’Oise,train-l
+Maurecourt,train-j
+Bourg-la-Reine,rer-b
+Sceaux,rer-b
+Fontenay-aux-Roses,rer-b
+Vanves - Malakoff,train-n
+Malakoff - Plateau de Vanves,metro-13
+Malakoff - Rue Étienne Dolet,metro-13
+Villepreux - Les Clayes,train-n
+Plaisir - Les Clayes,train-n
+Chemin d'Antony,rer-c
+Rungis - La Fraternelle,tram-7
+Rungis - La Fraternelle,rer-c
+Place Monge (Jardin des Plantes - Arènes de Lutèce),metro-7
+Cardinal Lemoine,metro-10
+Nogent-sur-Marne,rer-a
+Le Parc de Saint-Maur,rer-a
+Créteil - L'Échat (Hôpital Henri Mondor),metro-8
+Saint-Cloud,train-l
+Saint-Cloud,train-u
+Les Milons,tram-2
+Parc de Saint-Cloud,tram-2
+Bougival,train-l
+Torcy,rer-a
+Bussy-Saint-Georges,rer-a
+Lognes,rer-a
+Sentier,metro-3
+Bonne Nouvelle,metro-8
+Bonne Nouvelle,metro-9
+Bourse,metro-3
+Faidherbe - Chaligny,metro-8
+Ledru-Rollin,metro-8
+Charonne,metro-9
+Saint-Gratien,rer-c
+Epinay-sur-Seine,rer-c
+Robinson,rer-b
+Viroflay-Rive-Droite,tram-6
+Viroflay-Rive-Droite,train-l
+Viroflay-Rive-Gauche,tram-6
+Viroflay-Rive-Gauche,rer-c
+Viroflay-Rive-Gauche,train-n
+Montreuil,train-l
+Ourcq,metro-5
+Crimée,metro-7
+Corentin Cariou,metro-7
+Antony,rer-b
+La Croix de Berny,rer-b
+Château d'Eau,metro-4
+Strasbourg - Saint-Denis,metro-4
+Strasbourg - Saint-Denis,metro-8
+Strasbourg - Saint-Denis,metro-9
+Jacques Bonsergent,metro-5
+Saint-Michel-sur-Orge,rer-c
+Sainte-Geneviève-des-Bois,rer-c
+Epinay-sur-Orge,rer-c
+Saint-Leu la Forêt,train-h
+Vaucelles,train-h
+Taverny,train-h
+Poissonnière,metro-7
+Cadet,metro-7
+Gare du Nord,metro-2
+Gare du Nord,metro-4
+Gare du Nord,metro-5
+Gare du Nord,rer-b
+Gare du Nord,rer-d
+Gare du Nord,train-h
+Gare du Nord,train-k
+Rosa Parks,tram-3b
+Rosa Parks,rer-e
+Riquet,metro-7
+Joinville-le-Pont,rer-a
+Courcelles,metro-2
+Ternes,metro-2
+Monceau,metro-2
+Freinville - Sevran,tram-4
+Saint-Mandé,metro-1
+Bérault,metro-1
+Vincennes,rer-a
+La Verrière,train-n
+La Verrière,train-u
+Billancourt,metro-9
+Marcel Sembat,metro-9
+Pont de Sèvres,metro-9
+Suresnes-Mont-Valérien,train-l
+Suresnes-Mont-Valérien,train-u
+Suresnes-Longchamp,tram-2
+Belvédère,tram-2
+Jourdain,metro-11
+Place des Fêtes,metro-11
+Place des Fêtes,metro-7bis
+Pyrénées,metro-11
+Odéon,metro-4
+Odéon,metro-10
+Mabillon,metro-10
+Saint-Germain-des-Prés,metro-4
+Pelleport,metro-3bis
+Pont-Cardinet,metro-14
+Pont-Cardinet,train-l
+Rome,metro-2
+Villiers,metro-2
+Villiers,metro-3
+Grigny - Centre,rer-d
+Savigny-sur-Orge,rer-c
+Viry-Châtillon,rer-d
+Juvisy-sur-Orge,rer-c
+Juvisy-sur-Orge,rer-d
+Combs-la-Ville - Quincy,rer-d
+Lieusaint - Moissy,rer-d
+Boussy-Saint-Antoine,rer-d
+Campo-Formio,metro-5
+Le Val d'Or,train-l
+Le Val d'Or,train-u
+Les Coteaux,tram-2
+Javel - André Citroën,metro-10
+Charles Michels,metro-10
+Javel,rer-c
+Sarcelles - Saint-Brice,train-h
+Groslay,train-h
+Paul Valéry,tram-5
+Puteaux,tram-2
+Puteaux,train-l
+Puteaux,train-u
+La Défense,metro-1
+La Défense,tram-2
+La Défense,rer-a
+La Défense,train-l
+La Défense,train-u
+Faubourg de l'Arche,tram-2
+Fontenay-sous-Bois,rer-a
+Pereire (Maréchal Juin),metro-3
+Pereire - Levallois,rer-c
+Marly-le-Roi,train-l
+Louveciennes,train-l
+L'Etang-la-Ville,train-l
+Pont de Neuilly,metro-1
+Esplanade de la Défense,metro-1
+Rambouillet,train-n
+Le Perray,train-n
+Les Essarts-le-Roi,train-n
+Maurice Audin,tram-4
+Rosny sur Seine,train-j
+Mantes-la-Jolie,train-j
+Mantes-la-Jolie,train-n
+Mantes-Station,train-j
+Arts et Métiers,metro-3
+Arts et Métiers,metro-11
+Rambuteau (Centre Georges Pompidou),metro-11
+Réaumur - Sébastopol,metro-3
+Réaumur - Sébastopol,metro-4
+Sartrouville,rer-a
+Sartrouville,train-j
+Sartrouville,train-l
+Houilles - Carrières-sur-Seine,rer-a
+Houilles - Carrières-sur-Seine,train-j
+Houilles - Carrières-sur-Seine,train-l
+Maisons-Laffitte,rer-a
+Maisons-Laffitte,train-j
+Maisons-Laffitte,train-l
+Val d’Europe,rer-a
+Philippe Auguste,metro-2
+Alexandre Dumas,metro-2
+Château Rouge,metro-4
+Marcadet - Poissonniers,metro-4
+Marcadet - Poissonniers,metro-12
+Barbès - Rochechouart,metro-2
+Barbès - Rochechouart,metro-4
+Bessancourt,train-h
+Ponthierry - Pringy,rer-d
+Le Coudray-Montceaux,rer-d
+Boissise-le-Roi,rer-d
+Chézy-sur-Marne,train-p
+Château-Thierry,train-p
+Nogent-l'Artaud - Charly,train-p
+Dourdan - La Forêt,rer-c
+Dourdan,rer-c
+Saint-Rémy-lès-Chevreuse,rer-b
+Gravigny - Balizy,rer-c
+Franconville - Plessis-Bouchard,rer-c
+Franconville - Plessis-Bouchard,train-h
+Saint-Denis - Porte de Paris (Stade de France),metro-13
+Hôpital Delafontaine,tram-1
+Cimetière de Saint-Denis,tram-1
+Courbevoie,train-l
+Bécon-les-Bruyères,train-l
+Les Fauvelles,tram-2
+Val d'Argenteuil,train-j
+Argenteuil,train-j
+Belleville,metro-2
+Belleville,metro-11
+Buttes Chaumont,metro-7bis
+Melun,rer-d
+Melun,train-r
+Le Mée,rer-d
+Livry-sur-Seine,train-r
+Bièvres,rer-c
+Vauboyen,rer-c
+Igny,rer-c
+Alésia,metro-4
+Mouton-Duvernet,metro-4
+Denfert-Rochereau (Colonel Rol-Tanguy),metro-4
+Denfert-Rochereau (Colonel Rol-Tanguy),metro-6
+Denfert-Rochereau (Colonel Rol-Tanguy),rer-b
+Les Clairières de Verneuil,train-j
+Vernouillet - Verneuil,train-j
+Vaux-sur-Seine,train-j
+Petit Pierrefitte,tram-5
+Guynemer,tram-5
+Joncherolles,tram-5
+Mirabeau,metro-10
+Église d'Auteuil,metro-10
+Jasmin,metro-9
+Vitry-sur-Seine,rer-c
+Les Ardoines,rer-c
+Boigneville,rer-d
+Buno - Gironville,rer-d
+Clichy - Levallois,train-l
+Anatole France,metro-3
+Bonnières,train-j
+Villejuif - Léo Lagrange,metro-7
+Le Kremlin-Bicêtre,metro-7
+Laplace,rer-b
+Bolivar,metro-7bis
+Jaurès,metro-2
+Jaurès,metro-5
+Jaurès,metro-7bis
+Laumière,metro-5
+Porte de Saint-Cloud (Parc des Princes),metro-9
+Pernety,metro-13
+Gaîté,metro-13
+Ecole Vétérinaire de Maisons-Alfort,metro-8
+Maisons-Alfort-Alfortville,rer-d
+Porte de Vincennes,metro-1
+Porte de Vincennes,tram-3b
+Porte de Vincennes,tram-3a
+Porte de Montreuil,metro-9
+Porte de Montreuil,tram-3b
+Maraîchers,metro-9
+Nanteuil - Saâcy,train-p
+La Ferté-sous-Jouarre,train-p
+Didot,tram-3a
+Robert Wagner,tram-6
+L'Onde,tram-6
+Porchefontaine,rer-c
+Ranelagh,metro-9
+La Muette,metro-9
+Deuil - Montmagny,train-h
+Enghien-les-Bains,train-h
+La Barre - Ormesson,train-h
+Epinay - Villetaneuse,train-h
+Volontaires,metro-12
+Vaugirard (Adolphe Chérioux),metro-12
+Convention,metro-12
+Saint-Nom-la-Bretèche - Forêt de Marly,train-l
+Noisy-le-Roi,train-l
+Pavé Blanc,tram-6
+Georges Millandy,tram-6
+Meudon-la-Forêt,tram-6
+Bruyères-sur-Oise,train-h
+Boran-sur-Oise,train-h
+Persan - Beaumont,train-h
+Jules Joffrin,metro-12
+Les Saules,rer-c
+Villeneuve-le-Roi,rer-c
+Marché de Saint-Denis,tram-1
+Marché de Saint-Denis,tram-5
+Palaiseau,rer-b
+Palaiseau - Villebon,rer-b
+Massy - Palaiseau,rer-b
+Massy - Palaiseau,rer-c
+Pigalle,metro-2
+Pigalle,metro-12
+Blanche,metro-2
+Abbesses,metro-12
+Pontoise,rer-c
+Pontoise,train-h
+Pontoise,train-j
+Saint-Ouen-l'Aumône - Quartier de l'Eglise,train-j
+Saint-Ouen-l'Aumône,rer-c
+Saint-Ouen-l'Aumône,train-h
+Maubert - Mutualité,metro-10
+Cluny - La Sorbonne,metro-10
+Saint-Michel - Notre-Dame,rer-b
+Saint-Michel - Notre-Dame,rer-c
+Buzenval,metro-9
+Précy-sur-Oise,train-h
+Achères - Grand Cormier,rer-a
+Achères - Grand Cormier,train-j
+Achères - Ville,rer-a
+Achères - Ville,train-l
+Andrésy,train-j
+Montgeron-Crosne,rer-d
+Yerres,rer-d
+Brunoy,rer-d
+Les Flanades,tram-5
+Pierrefitte - Stains,rer-d
+Garges - Sarcelles,tram-5
+Garges - Sarcelles,rer-d
+Athis-Mons - Porte de l'Essonne,tram-7
+Athis-Mons,rer-c
+Vigneux-sur-Seine,rer-d
+Parc André Malraux,tram-6
+Division Leclerc,tram-6
+Ablon,rer-c
+Cosmonautes,tram-1
+Saint-Denis - Université,metro-13
+La Courneuve-Six Routes,tram-1
+Mériel,train-h
+Faidherbe,tram-1
+Victor Hugo (Tram),tram-1
+Val de Fontenay,tram-1
+Val de Fontenay,rer-a
+Val de Fontenay,rer-e
+Etampes,rer-c
+Saint-Martin-d'Étampes,rer-c
+Etrechy,rer-c
+Gros Noyer - Saint-Prix,train-h
+Noisy-le-Grand - Mont d’Est,rer-a
+Noisy - Champs,rer-a
+Bry-sur-Marne,rer-a
+La Frette - Montigny,train-j
+Cormeilles en Parisis,train-j
+Herblay,train-j
+Picpus (Courteline),metro-6
+Bel-Air,metro-6
+Daumesnil (Félix Éboué),metro-6
+Daumesnil (Félix Éboué),metro-8
+Sèvres - Babylone,metro-10
+Sèvres - Babylone,metro-12
+Rennes,metro-12
+Vaneau,metro-10
+Orry-la-Ville - Coye,rer-d
+La Borne Blanche,rer-d
+Luzarches,train-h
+Les Vallées,train-l
+La Garenne-Colombes,train-l
+Versailles - Rive Droite,train-l
+Versailles - Rive Gauche,rer-c
+Changis - Saint-Jean,train-p
+Mareil - Marly,train-l
+Saint-Germain-en-Laye,rer-a
+Arcueil - Cachan,rer-b
+Bagneux,rer-b
+Tacoignières - Richebourg,train-n
+Orgerus - Béhoust,train-n
+Houdan,train-n
+Domont,train-h
+Bouffémont - Moisselles,train-h
+Ecouen - Ezanville,train-h
+Le Chénay Gagny,rer-e
+Gagny,rer-e
+Neuilly-Plaisance,rer-a
+Théâtre Gérard Philipe,tram-1
+Basilique de Saint-Denis (Hôtel de Ville),metro-13
+Basilique de Saint-Denis (Hôtel de Ville),tram-1
+Léon Blum,tram-4
+République Marx Dormoy,tram-4
+Danube,metro-7bis
+Botzaris,metro-7bis
+Butte du Chapeau Rouge,tram-3b
+Boissy-Saint-Léger,rer-a
+Sucy - Bonneuil,rer-a
+Créteil - Pointe du Lac,metro-8
+Vélizy 2,tram-6
+La Varenne - Chennevières,rer-a
+Petit Vaux,rer-c
+Mairie d'Aubervilliers,metro-12
+Aimé Césaire,metro-12
+La Courneuve - Aubervilliers,rer-b
+Rue de la Pompe (Avenue Georges Mandel),metro-9
+Porte Dauphine (Maréchal de Lattre de Tassigny),metro-2
+Avenue Foch,rer-c
+Maisons-Alfort - Stade,metro-8
+Mairie de Montreuil,metro-9
+Aristide Briand,tram-1
+Route de Romainville,tram-1
+Petit Noisy,tram-1
+Pont de Bondy,tram-1
+Noisy-le-Sec,tram-1
+Noisy-le-Sec,rer-e
+Dugommier,metro-6
+Cour Saint-Émilion,metro-14
+Porte de Clignancourt,metro-4
+Porte de Clignancourt,tram-3b
+Simplon,metro-4
+Diane Arbus,tram-3b
+Vosves,rer-d
+Ermont - Halte,train-h
+Gare de Chilly-Mazarin,rer-c
+Longjumeau,rer-c
+Boulogne - Pont de Saint-Cloud (Rhin et Danube),metro-10
+Alexandra David-Néel,tram-3a
+Les Moulineaux,tram-2
+L'Abbaye,tram-4
+Lycée Henri Sellier,tram-4
+Exelmans,metro-9
+Boulevard Victor - Pont du Garigliano,tram-3a
+Boulevard Victor - Pont du Garigliano,rer-c
+Chardon-Lagache,metro-10
+Champ de courses d'Enghien,train-h
+Porte des Lilas,metro-11
+Porte des Lilas,metro-3bis
+Porte des Lilas,tram-3b
+Hôpital Robert-Debré,tram-3b
+Adrienne Bolland,tram-3b
+Temple,metro-3
+Le Vésinet - Le Pecq,rer-a
+Le Vésinet - Centre,rer-a
+Trie - Château,train-j
+Mitry - Claye,rer-b
+Mitry - Claye,train-k
+Compans,train-k
+Reuilly - Diderot,metro-1
+Reuilly - Diderot,metro-8
+Choisy-le-Roi,rer-c
+Moulin Vert,tram-7
+Jean Rostand,tram-1
+Auguste Delaune,tram-1
+Bobigny - Pablo Picasso,metro-5
+Bobigny - Pablo Picasso,tram-1
+Hôtel de Ville de La Courneuve,tram-1
+Fossés-Jean,tram-1
+Gare du Stade,tram-1
+Le Stade,train-j
+Cambronne,metro-6
+Avenue Émile Zola,metro-10
+Commerce,metro-8
+Dupleix,metro-6
+Evry - Courcouronnes,rer-d
+Le Bras de Fer - Évry - Génopole,rer-d
+Orangis - Bois de l'Épine,rer-d
+Place Carnot,tram-1
+Carrefour de la Vierge,tram-1
+Rues Louise / Hélène,tram-1
+Chatou - Croissy,rer-a
+Colombes,tram-1
+Colombes,train-j
+Bois-Colombes,train-j
+Nation,metro-1
+Nation,metro-2
+Nation,metro-6
+Nation,metro-9
+Nation,rer-a
+Gambetta,metro-3
+Gambetta,metro-3bis
+Ménilmontant,metro-2
+Ozoir-la-Ferrière,rer-e
+Roissy-en-Brie,rer-e
+Emerainville Pontault Combault,rer-e
+Les Courtilles,metro-13
+Asnières - Gennevilliers - Les Courtilles,tram-1
+Le Luth,tram-1
+Le Raincy-Villemomble-Montfermeil,rer-e
+Rosny sous-Bois,rer-e
+Croix de Chavaux (Place Jacques Duclos),metro-9
+Robespierre,metro-9
+Wagram,metro-3
+Pré Saint-Gervais,metro-7bis
+Télégraphe,metro-11
+Saint-Fargeau,metro-3bis
+Saint-Fargeau,rer-d
+Chaville - Rive Gauche,train-n
+Chaville - Rive Droite,train-l
+Chaville - Rive Droite,train-u
+Chaville - Vélizy,rer-c
+Château de Vincennes,metro-1
+Couronnes,metro-2
+Théophile Sueur,tram-1
+Rue de Rosny,tram-1
+Côte du Nord,tram-1
+Châtillon - Montrouge,metro-13
+Châtillon - Montrouge,tram-6
+Voltaire (Léon Blum),metro-9
+Fontenay-le-Fleury,train-n
+Triel-sur-Seine,train-j
+Valmy Nord,tram-1
+Rosny Bois Perrier,rer-e
+Père Lachaise,metro-2
+Père Lachaise,metro-3
+Rue Saint-Maur,metro-3
+Fontainebleau - Avon,train-r
+Vulaines-sur-Seine - Samoreau,train-r
+Thomery,train-r
+Poterne des Peupliers,tram-3a
+Stade Charléty,tram-3a
+Maison Blanche,metro-7
+Cergy - Saint-Christophe,rer-a
+Cergy - Saint-Christophe,train-l
+Cergy - Le Haut,rer-a
+Cergy - Le Haut,train-l
+Osny,train-j
+Danton,tram-1
+Villiers-le-Bel - Gonesse - Arnouville,rer-d
+Goussainville,rer-d
+Soleil Levant,tram-6
+Hôpital Béclère,tram-6
+Bourron - Marlotte - Grez,train-r
+Nemours - Saint-Pierre,train-r
+Domaine Chérioux,tram-7
+Dreux,train-n
+Marchezai - Broué,train-n
+Rueil-Malmaison,rer-a
+Villiers-sur-Marne Le Plessis Trévise,rer-e
+Mairie des Lilas,metro-11
+Eglise de Pantin,metro-5
+Hoche,metro-5
+Passy,metro-6
+Boulainvilliers,rer-c
+Neuilly - Porte Maillot,rer-c
+Porte Maillot (Palais des Congrès),metro-1
+Lochères,tram-5
+Hôtel de Ville de Bobigny,tram-1
+Libération,tram-1
+Plaisir - Grignon,train-n
+Carrefour Pleyel,metro-13
+Stade de France - Saint-Denis,rer-d
+Mairie de Saint-Ouen,metro-13
+Mairie de Saint-Ouen,metro-14
+Etienne Marcel,metro-4
+Oberkampf,metro-5
+Oberkampf,metro-9
+Porte de Bagnolet,metro-3
+Porte de Bagnolet,tram-3b
+L'Ile-Saint-Denis,tram-1
+Saint-Denis,tram-1
+Saint-Denis,rer-d
+Saint-Denis,train-h
+Montempoivre,tram-3a
+Porte Dorée,metro-8
+Porte Dorée,tram-3a
+Hôtel de Ville,metro-1
+Hôtel de Ville,metro-11
+Les Pavillons-sous-Bois,tram-4
+Anvers,metro-2
+Parc de Sceaux,rer-b
+Montargis,train-r
+Baudelaire,tram-5
+Couilly - Saint-Germain - Quincy,train-p
+Jouy-en-Josas,rer-c
+Magenta,rer-e
+Gare de l'Est (Verdun),metro-4
+Gare de l'Est (Verdun),metro-5
+Gare de l'Est (Verdun),metro-7
+Gare de l'Est (Verdun),train-p
+Issou - Porcheville,train-j
+Limay,train-j
+Gargenville,train-j
+Grands Boulevards,metro-8
+Grands Boulevards,metro-9
+Saint-Sulpice,metro-4
+Brochant,metro-13
+Honoré de Balzac,tram-3b
+Porte de Clichy,metro-13
+Porte de Clichy,metro-14
+Porte de Clichy,tram-3b
+Porte de Clichy,rer-c
+Bois-le-Roi,train-r
+Chartrettes,train-r
+Goncourt (Hôpital-Saint-Louis),metro-11
+République,metro-3
+République,metro-5
+République,metro-8
+République,metro-9
+République,metro-11
+Edgar Quinet,metro-6
+Stade Yves du Manoir,tram-1
+Ile Marante,tram-1
+Centre de Châtillon,tram-6
+Clamart,train-n
+Boulogne - Jean Jaurès,metro-10
+Aulnay-sous-Bois,tram-4
+Aulnay-sous-Bois,rer-b
+Aulnay-sous-Bois,train-k
+Le Blanc-Mesnil,rer-b
+Les Agnettes,metro-13
+Montigny-sur-Loing,train-r
+Bagneaux-sur-Loing,train-r
+Malesherbes,metro-3
+Corbeil-Essonnes,rer-d
+Essonnes - Robinson,rer-d
+Villabé,rer-d
+Champagne sur Oise,train-h
+Nointel - Mours,train-h
+Avenue du Président Kennedy,rer-c
+Champ de Mars - Tour Eiffel,rer-c
+Porte de Choisy,metro-7
+Porte de Choisy,tram-3a
+Porte d'Italie,metro-7
+Porte d'Italie,tram-3a
+Drancy,rer-b
+Escadrille Normandie-Niémen,tram-1
+Jacqueline Auriol,tram-2
+Victor Basch,tram-2
+Saint-Placide,metro-4
+Liancourt Saint-Pierre,train-j
+Chaumont en Vexin,train-j
+La Villetertre,train-j
+Lozère,rer-b
+Maisons-Alfort - Les Juilliottes,metro-8
+Marles-en-Brie,train-p
+Mortcerf,train-p
+Saint-Mammès,train-r
+Moret - Veneux-les-Sablons,train-r
+Vernou-sur-Seine,train-r
+Provins,train-p
+Champbenoist - Poigny,train-p
+Sainte-Colombe - Septveilles,train-p
+Ecole Militaire,metro-8
+La Tour-Maubourg,metro-8
+Pont de l'Alma,rer-c
+Hôpital de Montfermeil,tram-4
+Arboretum,tram-4
+Notre Dame des Anges,tram-4
+Jussieu,metro-7
+Jussieu,metro-10
+Creil,rer-d
+Creil,train-h
+Saint-Leu d'Esserent,train-h
+Chantilly - Gouvieux,rer-d
+Séverine,tram-3b
+Trocadéro,metro-6
+Trocadéro,metro-9
+Collège Gustave Courbet,tram-1
+Libre Pensée,tram-1
+Le Peletier,metro-7
+Notre-Dame-de-Lorette,metro-12
+Gallieni (Parc de Bagnolet),metro-3
+Asnières-sur-Seine,train-j
+Asnières-sur-Seine,train-l
+Pompadour,rer-d
+Chelles-Gournay,rer-e
+Chelles-Gournay,train-p
+Avron,metro-2
+Epone - Mézières,train-j
+Epone - Mézières,train-n
+Nanterre - Université,rer-a
+Nanterre - Université,train-l
+Parc Pierre Lagravère,tram-1
+Parc Pierre Lagravère,tram-2
+Coignières,train-n
+Arpajon,rer-c
+La Norville - Saint-Germain-lès-Arpajon,rer-c
+Egly,rer-c
+Boissy-l'Aillerie,train-j
+Sèvres - Ville d'Avray,train-l
+Sèvres - Ville d'Avray,train-u
+George V,metro-1
+Saint-Philippe du Roule,metro-9
+Franklin D. Roosevelt,metro-1
+Franklin D. Roosevelt,metro-9
+Nanterre - Ville,rer-a
+Lagny - Thorigny,train-p
+Vaires - Torcy,train-p
+Noisiel,rer-a
+La Motte-Picquet - Grenelle,metro-6
+La Motte-Picquet - Grenelle,metro-8
+La Motte-Picquet - Grenelle,metro-10
+Charenton - Écoles (Place Aristide Briand),metro-8
+Liberté,metro-8
+Cergy - Préfecture,rer-a
+Cergy - Préfecture,train-l
+Neuville - Université,rer-a
+Neuville - Université,train-l
+Corentin Celton,metro-12
+Porte d'Issy,tram-2
+Desnouettes,tram-3a
+Saint-Ouen-l'Aumône - Liesse,rer-c
+Saint-Ouen-l'Aumône - Liesse,train-h
+Michel-Ange - Molitor,metro-9
+Michel-Ange - Molitor,metro-10
+Porte d'Auteuil,metro-10
+Les Yvris Noisy le Grand,rer-e
+Charles de Gaulle - Étoile,metro-1
+Charles de Gaulle - Étoile,metro-2
+Charles de Gaulle - Étoile,metro-6
+Charles de Gaulle - Étoile,rer-a
+Kléber,metro-6
+Boutigny,rer-d
+Maisse,rer-d
+Allée de la Tour - Rendez-Vous,tram-4
+Les Coquetiers,tram-4
+Robert Schuman,tram-7
+Rue des Boulets,metro-9
+Gare de Lyon,metro-1
+Gare de Lyon,metro-14
+Gare de Lyon,rer-a
+Gare de Lyon,rer-d
+Gare de Lyon,train-r
+Sèvres - Rive Gauche,train-n
+Brétigny,rer-c
+Mairie d'Ivry,metro-7
+Pierre et Marie Curie,metro-7
+Ivry-sur-Seine,rer-c
+Musée de Sèvres,tram-2
+Gentilly,rer-b
+Cité universitaire,tram-3a
+Cité universitaire,rer-b
+Bastille,metro-1
+Bastille,metro-5
+Bastille,metro-8
+Bobigny - Pantin - Raymond Queneau,metro-5
+Meaux,train-p
+Trilport,train-p
+Quatre Routes,tram-1
+Inovel Parc Nord,tram-6
+Louvois,tram-6
+Mairie de Vélizy,tram-6
+Chanteloup-les-Vignes,train-j
+Gargan,tram-4
+Presles - Courcelles,train-h
+Eragny - Neuville,train-j
+Pont de Levallois - Bécon,metro-3
+Meulan - Hardricourt,train-j
+Les Mureaux,train-j
+Thun-le-Paradis,train-j
+Le Guichet,rer-b
+Château-Landon,metro-7
+Colonel Fabien,metro-2
+Bir-Hakeim (Tour Eiffel),metro-6
+Pont de Bezons,tram-2
+Nangis,train-p
+Lamarck - Caulaincourt,metro-12
+Guy Môquet,metro-13
+Saint-Marcel,metro-5
+Villeneuve - Triage,rer-d
+Les Cholettes,tram-5
+Bures-sur-Yvette,rer-b
+Michel-Ange - Auteuil,metro-9
+Michel-Ange - Auteuil,metro-10
+Bellevue,train-n
+Brimborion,tram-2
+Les Sablons (Jardin d'Acclimatation),metro-1
+Jean Moulin,tram-3a
+Bouray,rer-c
+Lardy,rer-c
+Marolles-en-Hurepoix,rer-c
+Aubervilliers - Pantin - Quatre Chemins,metro-7
+Pierrelaye,rer-c
+Pierrelaye,train-h
+Champagne-sur-Seine,train-r
+Montgallet,metro-8
+Place de Clichy,metro-2
+Place de Clichy,metro-13
+Boissière,metro-6
+Victor Hugo,metro-2
+Timbaud,tram-1
+Le Village,tram-1
+Juziers,train-j
+Aubergenville - Elisabethville,train-j
+Stade Géo André,tram-1
+Bondy,tram-4
+Bondy,rer-e
+Mail de la Plaine,tram-6
+Beynes,train-n
+Villiers - Neauphle - Pontchartrain,train-n
+Montfort-l'Amaury - Méré,train-n
+Villepinte,rer-b
+Parc des Expositions,rer-b
+Porte de la Villette,metro-7
+Porte de la Villette,tram-3b
+Nanterre - Préfecture,rer-a
+Tournan,rer-e
+Tournan,train-p
+Gretz-Armainvilliers,rer-e
+Nézel - Aulnay,train-n
+Vauban,tram-6
+Porte d'Ivry,metro-7
+Porte d'Ivry,tram-3a
+Olympiades,metro-14
+La Fourche,metro-13
+Maryse Bastié,tram-3a
+Villeneuve-Saint-Georges,rer-d
+Garibaldi,metro-13
+Montigny-Beauchamp,rer-c
+Montigny-Beauchamp,train-h
+Falguière,metro-12
+Montparnasse - Bienvenüe,metro-4
+Montparnasse - Bienvenüe,metro-6
+Montparnasse - Bienvenüe,metro-12
+Montparnasse - Bienvenüe,metro-13
+Montparnasse - Bienvenüe,train-n
+Duroc,metro-10
+Duroc,metro-13
+Liège,metro-13
+Europe,metro-3
+Alcide d'Orbigny,tram-5
+Mairie de Pierrefitte,tram-5
+Jacques Prévert,tram-5
+Saint-Paul (Le Marais),metro-1
+Pont Marie (Cité des Arts),metro-7
+Vavin,metro-4
+Raspail,metro-4
+Raspail,metro-6
+Georges Brassens,tram-3a
+Villennes-sur-Seine,train-j
+Poissy,rer-a
+Poissy,train-j
+Le Vert-de-Maisons,rer-d
+Survilliers-Fosses,rer-d
+Louvres,rer-d
+Epinettes - Pouchet,tram-3b
+Porte de Saint-Ouen,metro-13
+Porte de Saint-Ouen,tram-3b
+Ris-Orangis,rer-d
+Miromesnil,metro-9
+Miromesnil,metro-13
+Longueville,train-p
+Charlebourg,tram-2
+Aéroport Charles-de-Gaulle 2 TGV,rer-b
+Aéroport Charles-de-Gaulle 1,rer-b
+Porte de Pantin (Parc de la Villette),metro-5
+Porte de Pantin (Parc de la Villette),tram-3b
+Villiers - Montbarbin,train-p
+Corvisart,metro-6
+Tolbiac,metro-7
+Glacière,metro-6
+Grand-Bourg,rer-d
+Clichy-sous-Bois Mairie,tram-4
+Savigny-le-Temple - Nandy,rer-d
+Gare de Saint-Germain-en-Laye - Bel-Air - Fourqueux,train-l
+Saint-Germain-en-Laye - Grande-Ceinture,train-l
+Orsay - Ville,rer-b
+Notre-Dame-des-Champs,metro-12
+Les Greves,tram-1
+Romain Rolland,tram-4
+Clichy - Montfermeil,tram-4
+Argentine,metro-1
+Chars,train-j
+Vernon,train-j
+L'Isle-Adam - Parmain,train-h
+Valmondois,train-h
+Isles - Armentières - Congis,train-p
+Lizy-sur-Ourcq,train-p
+Suzanne Lenglen,tram-2
+Pasteur,metro-6
+Pasteur,metro-12
+Sèvres - Lecourbe,metro-6
+Place d'Italie,metro-5
+Place d'Italie,metro-6
+Place d'Italie,metro-7
+Gisors,train-j
+Porte de Versailles (Parc des Expositions de Paris),metro-12
+Porte de Versailles (Parc des Expositions de Paris),tram-2
+Porte de Versailles (Parc des Expositions de Paris),tram-3a
+Sully - Morland,metro-7
+Michel Bizot,metro-8
+La Noue,tram-1
+Mairie de Villeneuve-la-Garenne,tram-1
+Chemin des Reniers,tram-1
+Bibliothèque François Mitterrand,metro-14
+Bibliothèque François Mitterrand,rer-c
+Place Jeanne-d'Arc,tram-1
+Félix Faure,metro-8
+Epluches,train-h
+Stalingrad,metro-2
+Stalingrad,metro-5
+Stalingrad,metro-7
+Louis Blanc,metro-7
+Louis Blanc,metro-7bis
+Quai de la Rapée,metro-5
+Anglique Compoint - Porte de Montmartre,tram-3b
+Bretagne,tram-7
+Auguste Perret,tram-7
+Issy - Val de Seine,tram-2
+Issy - Val de Seine,rer-c
+Saint-Ouen,metro-14
+Saint-Ouen,rer-c
+Versailles - Chantiers,rer-c
+Versailles - Chantiers,train-n
+Versailles - Chantiers,train-u
+Boucicaut,metro-8
+Lourmel,metro-8
+Madeleine,metro-8
+Madeleine,metro-12
+Madeleine,metro-14
+Auber,rer-a
+Havre - Caumartin,metro-3
+Havre - Caumartin,metro-9
+Richelieu - Drouot,metro-8
+Richelieu - Drouot,metro-9
+Aéroport d'Orly,tram-7
+Luxembourg,rer-b
+Héricy,train-r
+Porte de Charenton,metro-8
+Porte de Charenton,tram-3a
+Balard,metro-8
+Balard,tram-3a
+Souppes - Château-Landon,train-r
+Saint-Georges,metro-12
+Saint-Michel,metro-4
+Châtelet - Les Halles,metro-1
+Châtelet - Les Halles,metro-4
+Châtelet - Les Halles,metro-7
+Châtelet - Les Halles,metro-11
+Châtelet - Les Halles,metro-14
+Châtelet - Les Halles,rer-a
+Châtelet - Les Halles,rer-b
+Châtelet - Les Halles,rer-d
+Cité,metro-4
+Avenue de France,tram-3a
+Le Plessis-Chenet,rer-d
+Moulin-Galant,rer-d
+Sermaise,rer-c
+Canal Saint-Denis,tram-3b
+Marx Dormoy,metro-12
+La Chapelle,metro-2
+Chaponval,train-h
+Mareuil-sur-Ourcq,train-p
+Ormoy - Villiers,train-k
+Crépy-en-Valois,train-k
+Saint-Augustin,metro-9
+Charles Péguy,tram-1
+Montsouris,tram-3a
+Coulommiers,train-p
+Mouroux,train-p
+Bagneux Lucie Aubrac,metro-4
+Cesson,rer-d
+Garancières - La Queue,train-n
+Seugy,train-h
+Viarmes,train-h
+Gennevilliers,tram-1
+Gennevilliers,rer-c
+Chemin Vert,metro-8
+Nationale,metro-6
+Maule,train-n
+Mareil-sur-Mauldre,train-n
+Breuillet - Bruyères-le-Châtel,rer-c
