@@ -1,0 +1,12 @@
+variable;description
+reference;Reference number of the property.
+price;The price of the property being sold.
+type;Type of property, such as house, apartment, etc.
+postal_code;Postal code, likely indicating the location of the property.
+energy_class;Energy efficiency class, likely indicating the energy efficiency rating.
+url;URL or web link to the property.
+latitude;Latitude coordinate, likely indicating the location of the property.
+longitude;Longitude coordinate, likely indicating the location of the property.
+description_text;Text description of the property.
+date;Date the ad was put online.
+transport_station_name;Name of the transport station.
